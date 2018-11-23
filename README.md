@@ -1,7 +1,14 @@
 # Yopply
 
-> Application Prototyping (2017 Spring)
+> Application Prototyping (2017 Spring), Yonsei University
 
-[About the project](http://haleypark.design/yopply/)
+### Challenge
+In this class, students defined and prototyped their own app in Xcode.
 
-![alt text](Slide1.png)
+### Slides
+![Title slide](slidesForReadme/Slide1.png)
+![Problem statement](slidesForReadme/Slide2.png)
+![App Definition Statement](slidesForReadme/Slide3.png)
+![Tabs](slidesForReadme/Slide4.png)
+![UI](slidesForReadme/Slide5.png)
+![Storyboard](slidesForReadme/Slide6.png)
